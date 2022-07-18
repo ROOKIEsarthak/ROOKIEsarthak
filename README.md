@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ROOKIEsarthak
 - 👀 I’m interested in Python Django.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently a MERN Stack Developer.
 - 💞️ I’m looking to collaborate on Software projects
 - 📫 How to reach me officialsarthak22@gmail.com
 
