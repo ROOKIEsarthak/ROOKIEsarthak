@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ROOKIEsarthak
+- 👋 Hi, I’m Sarthak Kashyap
 - 👀 I’m interested in MERN Stack Development
 - 🌱 I’m currently learning nodejs and express js
 - 💞️ I’m looking to collaborate on various projects on mern stack and backend development.
