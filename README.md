@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarthak Kashyap
 - 👀 I’m interested in MERN Stack Development
-- 🌱 I’m currently learning nodejs and express js
-- 💞️ I’m looking to collaborate on various projects on mern stack and backend development.
+- 🌱 I’m currently learning Node.js and Express.js
+- 💞️ I’m looking to collaborate on various projects on MERN stack development.
 - 📫 How to reach me at officialsarthak22@gmail.com
 
 <!---
