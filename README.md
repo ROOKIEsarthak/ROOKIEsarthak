@@ -10,7 +10,7 @@ const ambivert_1 = () => {
 	const aboutMe = {
     	name: "Sarthak Kashyap",
         username: "ROOKIEsarthak",
-        location: "Lucknow, India",
+        location: "Bangalore, India",
         linkedIn: "https://www.linkedin.com/in/ambivert1/",
         email: "officialsarthak22@gmail.com"
 	};
