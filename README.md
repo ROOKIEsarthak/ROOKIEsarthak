@@ -71,10 +71,7 @@ console.log(ambivert_1());
     </a>
 	<a href="https://www.linkedin.com/in/ambivert1/">
     	<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
-    </a>
-	<a href="https://codesandbox.io/u/VijayMeena701/">
-    	<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>
-    </a>
+	</a>
 	<a href="https://stackoverflow.com/users/18906490/roooookie/">
     	<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>
     </a>
