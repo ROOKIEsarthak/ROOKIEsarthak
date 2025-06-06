@@ -6,19 +6,19 @@ I'm a FullStack Developer, Programmer, Designer & self motivated tech enthusiast
 ![Banner.](https://github.com/VijayMeena701/VijayMeena701/raw/master/assets/software-developer.webp)
 ## About Me
 ```javascript
-const VijayMeena701 = () => {
+const ambivert_1 = () => {
 	const aboutMe = {
-    	name: "Vijay Meena",
-        username: "VijayMeena701",
-        location: "Mumbai, India",
-        web: "https://vijaymeena.dev",
-        email: "govardhanmeena701@gmail.com"
+    	name: "Sarthak Kashyap",
+        username: "ROOKIEsarthak",
+        location: "Lucknow, India",
+        linkedIn: "https://www.linkedin.com/in/ambivert1/",
+        email: "officialsarthak22@gmail.com"
 	};
     
     return aboutMe;
 }
 
-console.log(VijayMeena701());
+console.log(ambivert_1());
 ```
 <br />
 
