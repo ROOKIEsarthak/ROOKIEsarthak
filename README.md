@@ -3,7 +3,7 @@
 </h1>
 
 I'm a FullStack Developer, Programmer, Designer & self motivated tech enthusiast.
-![Banner.](https://github.com/VijayMeena701/VijayMeena701/raw/master/assets/software-developer.webp)
+![Banner.](https://raw.githubusercontent.com/ROOKIEsarthak/TickTackToeGame/refs/heads/master/assets/images/software-developer-github-image.webp)
 ## About Me
 ```javascript
 const ambivert_1 = () => {
