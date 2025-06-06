@@ -61,7 +61,6 @@ console.log(ambivert_1());
 
 <br/>
 
-- 🤔 I’m looking for help with Advanced ReactJS & SSR SEO Optimizations. Ping me if you know someone who might be able to help.
 - 📫 Reach me @ officialsarthak22@gmail.com 
 
 <br/>
