@@ -3,7 +3,7 @@
 </h1>
 
 I'm a FullStack Developer, Programmer, Designer & self motivated tech enthusiast.
-![Banner.](https://raw.githubusercontent.com/ROOKIEsarthak/TickTackToeGame/refs/heads/master/assets/images/software-developer-github-image.webp)
+![Banner.](https://github.com/ROOKIEsarthak/TickTackToeGame/blob/master/assets/images/software-developer-github-image.webp)
 ## About Me
 ```javascript
 const ambivert_1 = () => {
